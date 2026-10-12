@@ -1,27 +1,55 @@
+<div align="center">
+
 # Andrey Borisovets
 
-Student developer working through coursework and small prototypes in software development and systems engineering.
+**Applied Informatics student · Software development · Cloud & infrastructure**
 
-## Python
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-Python coursework includes numerical methods, computer graphics, and small learning projects. These repositories are currently private, so there are no public code links here.
-
-## C++ / Qt
-
-Coursework includes standalone C++ assignments and Qt Widgets exercises. The projects are educational snapshots rather than maintained libraries or applications.
-
-## Java
-
-Java coursework covers socket-based client/server exercises, RMI examples, and a Swing warehouse application with file-backed records and ordered indexes. These repositories are private.
-
-## Web Development
-
-- [Web Programming 2 coursework](https://github.com/0-The-Fool-0/Web-prog-coure-2) — public HTML, CSS, and JavaScript exercises, including small Node.js and Webpack projects.
-
-## Cloud Engineering
-
-I have also worked on a private hackathon MVP exploring a peer-to-peer Cloud PC workflow with a FastAPI backend, React frontend, host agent, and Docker-based development shell. It is a prototype, not a production service.
+</div>
 
 ---
 
-Most repositories represent learning projects. Build status and limitations are documented in each repository where verified.
+## About
+
+I build small applications and technical projects while developing my skills across algorithms, desktop software, networking, and web development. I like understanding how the pieces fit together—from the data model and application logic to the interface and runtime environment.
+
+- **Algorithms & numerical methods** — interpolation, splines, rasterization, clipping, and 3D transformations.
+- **Desktop development** — C++/Qt Widgets and Java Swing.
+- **Web development** — HTML, CSS, JavaScript, Node.js/Express, React, and TypeScript.
+- **Backend & infrastructure** — Python/FastAPI, Docker-based development environments, and practical automation.
+
+## Selected public work
+
+### [Web Programming 2 — coursework](https://github.com/0-The-Fool-0/Web-prog-coure-2)
+A collection of web-development labs, including an Express and Socket.IO chat, REST endpoints, and client-side exercises.
+
+### [C++ and Assembler — semester coursework](https://github.com/0-The-Fool-0/2-semestry)
+A collection of university exercises in C++ and assembly language, kept as separate assignments.
+
+## Areas I'm developing
+
+| Area | Current direction |
+|---|---|
+| **Python** | Scripting, numerical computing, small applications, and backend tooling |
+| **C++ / Qt** | Algorithms, data structures, and desktop interfaces |
+| **Web** | Client/server architecture, APIs, and real-time communication |
+| **Cloud & DevOps** | Containers, deployment workflows, automation, and distributed-computing concepts |
+
+## How this GitHub is organized
+
+Coursework is kept in separate collections so that different labs and implementations remain easy to navigate. Additional projects are being documented and reviewed before they are made public.
+
+---
+
+<div align="center">
+  <sub>Learning by building, testing, documenting, and improving one project at a time.</sub>
+</div>
