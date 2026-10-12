@@ -20,20 +20,20 @@
 
 ## About
 
-I build small applications and technical projects while developing my skills across algorithms, desktop software, networking, and web development. I like understanding how the pieces fit together—from the data model and application logic to the interface and runtime environment.
+I build applications and technical projects while developing my skills across algorithms, desktop software, networking, and web development. I enjoy understanding the full path from data structures and application logic to interfaces and runtime environments.
 
 - **Algorithms & numerical methods** — interpolation, splines, rasterization, clipping, and 3D transformations.
-- **Desktop development** — C++/Qt Widgets and Java Swing.
+- **Desktop development** — C++/Qt Widgets, Windows process APIs, and Java Swing.
 - **Web development** — HTML, CSS, JavaScript, Node.js/Express, React, and TypeScript.
-- **Backend & infrastructure** — Python/FastAPI, Docker-based development environments, and practical automation.
+- **Backend & infrastructure** — Python/FastAPI, Docker-based development environments, and automation.
 
 ## Selected public work
 
 ### [Web Programming 2 — coursework](https://github.com/0-The-Fool-0/Web-prog-coure-2)
 A collection of web-development labs, including an Express and Socket.IO chat, REST endpoints, and client-side exercises.
 
-### [C++ and Assembler — semester coursework](https://github.com/0-The-Fool-0/2-semestry)
-A collection of university exercises in C++ and assembly language, kept as separate assignments.
+### [Employee Records and Reporting — C++](https://github.com/0-The-Fool-0/4-sem)
+A Windows-oriented C++ exercise using binary employee records, separate helper executables, process creation, and report generation. Its README documents known review items rather than claiming production readiness.
 
 ## Areas I'm developing
 
@@ -46,7 +46,7 @@ A collection of university exercises in C++ and assembly language, kept as separ
 
 ## How this GitHub is organized
 
-Coursework is kept in separate collections so that different labs and implementations remain easy to navigate. Additional projects are being documented and reviewed before they are made public.
+Coursework is kept in separate collections so different labs and implementations remain easy to navigate. Some newer collections are private while they are being tested and documented; only public projects are linked above.
 
 ---
 
