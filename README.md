@@ -4,66 +4,49 @@
 
 # Andrey Borisovets
 
-**Applied Informatics student · Software development · Cloud & infrastructure**
+**Applied Informatics student · Learning software development, systems, and infrastructure**
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-## About
+## My learning path
 
-I study Applied Informatics at the Faculty of Applied Mathematics and Informatics. My course programme spans mathematical foundations, algorithms, system programming, networking, web/mobile development, data analysis, and AI. I build small applications and technical exercises while developing a stronger understanding of how data structures, application logic, interfaces, and runtime environments fit together.
+I study Applied Informatics at the Faculty of Applied Mathematics and Informatics. This GitHub is intended to be a record of that path: course assignments, experiments, unfinished ideas, debugging, and improvements over time—not only a showcase of polished projects.
 
-- **Algorithms & numerical methods** — interpolation, splines, data structures, graph algorithms, rasterisation, clipping, and 3D transformations.
-- **Desktop development** — C++/Qt Widgets, Windows process APIs, and Java Swing.
-- **Web development** — HTML, CSS, JavaScript, Node.js/Express, React, and TypeScript.
-- **Systems and networking** — operating-system labs, sockets/RMI, Linux network applications, and concurrency exercises.
-- **Data and intelligent systems** — EDA, regression experiments, machine-learning coursework, and pattern-recognition topics.
-- **Backend & infrastructure** — Python/FastAPI prototypes and Docker-based development environments.
+The coursework starts with mathematics and programming foundations, progresses through algorithms and data structures (АиСД), computational methods, graphics, desktop applications, web programming, and operating systems, and then expands into computer networks, data models and DBMS, data analysis, and service-oriented software systems.
 
-## Selected public work
+## Current focus
 
-### [Web Programming 2 — coursework](https://github.com/0-The-Fool-0/Web-prog-coure-2)
-A web-development lab centred on an Express and Socket.IO chat, with a REST API for recipes and a separate chat route.
+- **C++ / algorithms:** algorithms and data structures, computational methods, graphical applications, and operating-system labs.
+- **Web development:** JavaScript, TypeScript, Node.js/Express, REST APIs, and client/server applications.
+- **Databases:** building a clearer practical foundation in data modelling and DBMS alongside university coursework.
+- **Go:** I have started learning Go and plan to use it for the course project in **Service-Oriented Software Systems (СОПС)**.
+- **Cloud and infrastructure:** gradually exploring service architecture, automation, containers, and distributed-computing ideas.
 
-### [Employee Records and Reporting — C++](https://github.com/0-The-Fool-0/4-sem)
-A Windows-oriented C++ exercise using binary employee records, helper executables, process creation, and report generation. Its README documents known review items rather than claiming production readiness.
+## Learning archive
 
-### [First-semester C++ labs](https://github.com/0-The-Fool-0/1_semestry_c)
-An archive of foundational C++ exercises kept in their original lab folders.
+Repositories are being organised by course and topic. I want them to show progression—from early assignments to more structured and better-documented work. Different implementations and imperfect intermediate steps may remain when they help explain that progression.
 
-## Study programme
+- [Study programme — English](STUDY_PROGRAM.md)
+- [Учебная программа — русский](STUDY_PROGRAM.ru.md)
 
-The programme includes six semester groupings across the first three years, from calculus, algebra and programming methodology to distributed systems, information security, AI, pattern recognition, and quality evaluation.
+## Notes
 
-- [Full study programme (English)](STUDY_PROGRAM.md)
-- [Полная учебная программа (русский)](STUDY_PROGRAM.ru.md)
-
-## Areas I'm developing
-
-| Area | Current direction |
-|---|---|
-| **Python** | Scripting, numerical computing, small applications, and backend tooling |
-| **C++ / Qt** | Algorithms, data structures, and desktop interfaces |
-| **Web** | Client/server architecture, APIs, and real-time communication |
-| **Cloud & DevOps** | Containers, deployment workflows, automation, and distributed-computing concepts |
-
-## How this GitHub is organised
-
-Coursework is kept in separate collections so differing labs and implementations remain easy to navigate. Several collections are private while they are being reviewed, tested, and documented; only repositories that are public are linked above.
+Some repositories are still private while I check their contents, remove generated files, and improve documentation. The goal is to share a transparent learning history without publishing secrets, personal data, or material that should not be redistributed.
 
 ---
 
 <div align="center">
-  <sub>Learning by building, testing, documenting, and improving one project at a time.</sub>
+  <sub>Learning by building, breaking, understanding, documenting, and improving.</sub>
 </div>
