@@ -2,20 +2,21 @@
 
 [Русская версия](STUDY_PROGRAM.ru.md)
 
-This document organises the courses listed in the academic record for Applied Informatics at the Faculty of Applied Mathematics and Informatics. Course names are retained from that record, with formatting normalised for readability. Grades, personal identifiers, and session results are omitted.
+This is a working map of the course list supplied for the Applied Informatics programme at the Faculty of Applied Mathematics and Informatics. It preserves the corrected list rather than trying to reconstruct an official syllabus. Grades, personal identifiers, and session results are not included.
 
 ## Main subject areas
 
-- **Mathematics and formal foundations:** analytic geometry, calculus, algebra and number theory, discrete mathematics and logic, graph theory, probability and statistics, differential equations, computational methods, optimisation, combinatorics, and mathematical modelling.
-- **Programming:** programming methodology, machine-oriented programming, algorithms and data structures, industrial programming, cross-platform applications, and computer graphics.
-- **Systems and infrastructure:** operating systems and computer networks.
-- **Application engineering:** web and mobile development, service-oriented software systems, and database management systems.
-- **Data and information systems:** data analysis and visualisation, database management systems, mathematical modelling, and optimisation.
+- **Mathematics and formal foundations:** analytic geometry, calculus, algebra and number theory, discrete mathematics and logic, graph theory, probability and statistics, differential equations, computational methods, optimisation, and mathematical modelling.
+- **Programming foundations:** programming methodology, machine-oriented programming, algorithms and data structures (АиСД), industrial programming, cross-platform applications, and computer graphics.
+- **Application development:** web and mobile programming, desktop application development, and service-oriented software systems.
+- **Systems and data:** operating systems, computer networks, data models and database management systems (DBMS), data analysis and visualisation.
 - **Wider context:** English, Russian as a foreign language, Belarusian professional language, history, law, philosophy, political economy, pedagogy and psychology, and physical education.
 
-The grouping above is an interpretation of the course titles, not a separate official curriculum classification.
+These groupings are a practical interpretation of the listed subjects, not an official university taxonomy.
 
-## Year 1 — winter semester
+## Subjects by semester
+
+### Year 1 — winter semester
 
 - Analytic Geometry
 - Mathematical Analysis
@@ -24,11 +25,12 @@ The grouping above is an interpretation of the course titles, not a separate off
 - Belarusian Language (Professional Vocabulary)
 - Discrete Mathematics and Mathematical Logic
 - English
+- Russian as a Foreign Language
 - Physical Education
 - History of Belarusian Statehood
 - Curator / Information Hour
 
-## Year 1 — spring semester
+### Year 1 — spring semester
 
 - Algebra and Number Theory
 - Mathematical Analysis
@@ -42,7 +44,7 @@ The grouping above is an interpretation of the course titles, not a separate off
 - Mathematical Methods of Computer Graphics
 - Development of Cross-Platform Applications
 
-## Year 2 — winter semester
+### Year 2 — winter semester
 
 - Educational Computing Practice
 - Algorithms and Data Structures
@@ -58,7 +60,7 @@ The grouping above is an interpretation of the course titles, not a separate off
 - Modern Political Economy
 - Curator / Information Hour
 
-## Year 2 — spring semester
+### Year 2 — spring semester
 
 - Fundamentals of Law
 - Probability Theory and Mathematical Statistics
@@ -70,13 +72,12 @@ The grouping above is an interpretation of the course titles, not a separate off
 - Operating Systems
 - Philosophy
 
-## Year 3 — winter semester
+### Year 3 — winter semester (corrected)
 
 - Fundamentals of Pedagogy and Psychology
 - Computer Networks
 - Optimisation Methods
 - Data Models and Database Management Systems
-- Russian as a Foreign Language
 - Data Analysis and Visualisation Technologies
 - Physical Education
 - Web Programming
@@ -86,44 +87,25 @@ The grouping above is an interpretation of the course titles, not a separate off
 - Curator / Information Hour
 - Special Sports and Health Competencies
 
-## Year 3 — spring semester
+## Connection to my project archive
 
-- Russian as a Foreign Language
-- Programming of Mobile and Embedded Systems
-- Distributed and Parallel Systems
-- High-Level Programming Technologies for Computer Systems (RFID Technologies)
-- Information Security of Mobile Applications
-- Translation Methods
-- Testing and System Quality Evaluation
-- Video Stream Processing Technology
-- Physical Education
-- Artificial Intelligence
-- Combinatorial Structures in Data and Process Analysis
-- Third-Year Coursework
-- Methods of Pattern Recognition
-- Optimisation and Integration of Business Processes
-- Pattern Recognition Theory
-- Curator / Information Hour
-- Special Sports and Health Competencies
+The relationships below are personal mappings based on repository contents and coursework titles, not official course-to-project equivalencies.
 
-## How this maps to my project archive
-
-This mapping is an editorial association based on repository structure and source files, not an official university mapping. The third-year spring-semester list is intentionally omitted, and five mistakenly copied third-year winter entries have been removed per the student's correction.
-
-| Course theme | Related repository / project |
+| Study area | Related work |
 |---|---|
-| Algorithms and Data Structures | First-semester C++ labs; the dedicated AиСД collection is awaiting a repository-name correction. |
-| Computational Methods | Private collection of numerical methods and interpolation exercises. |
-| Computer Graphics | Python demonstrations of rasterisation, clipping, and 3D transforms; Qt exercises are also relevant. |
-| Operating Systems | Public Operating-systems repository with labs covering processes, threads, queues, and client/server interaction. |
-| Web Programming | Public Web Programming 2 Lab 9 and a private Web Programming 2 collection. |
-| Networking | Private Java socket/RMI coursework collection. |
-| Desktop Applications | Private Qt Widgets and Java Swing collections. |
-| Data Analysis | The Streamlit project is maintained separately and is not presented as a finished showcase item. |
-| Cloud / distributed prototypes | The private MTS Cloud PC fork is an experiment, not a production service. |
+| Algorithms and Data Structures (АиСД) | C++ algorithm and data-structure labs; repository name correction to `aisd-coursework` is still pending. |
+| Computational methods and mathematics | Numerical interpolation and spline exercises. |
+| Computer graphics | Rasterisation, clipping, 3D transformations, and Qt/C++ graphical exercises. |
+| Operating systems | C++ labs around processes, threads, synchronisation, queues, and client/server communication. |
+| Web programming | JavaScript, Node.js/Express, REST APIs, and real-time chat coursework. |
+| Networking | Java socket and RMI examples; computer-networking coursework. |
+| Database systems | DBMS is a core subject in the corrected course list; a more complete project mapping will be added as the coursework is organised. |
+| Service-oriented software systems (СОПС) and Go | I have started learning Go and plan to implement the СОПС coursework project in Go. This is a plan, not a completed project. |
+| Data analysis | The Streamlit coursework is maintained separately and is not presented here as finished portfolio work. |
 
-## Notes
+## Scope and updates
 
-- The course list is based on the supplied academic record with the student's corrections: the third-year spring semester is omitted, and five mistakenly copied third-year winter entries are removed. It has not been independently checked against the university's official programme specification.
-- Repository-to-course links are editorial associations based on available materials.
-- Private repositories are not presented as public portfolio links.
+- The third-year spring semester is intentionally omitted, as requested; it can be added after the list is checked.
+- The third-year winter list has had five accidentally copied subjects removed: 3D-modelling foundations, Linux network applications, industrial-IoT machine learning, computational linguistics, and Russian as a foreign language.
+- Fourth-year subjects will be added later.
+- This document is based on the supplied academic record and corrections, not independently verified against the university's official programme specification.
