@@ -106,6 +106,6 @@ The relationships below are personal mappings based on repository contents and c
 ## Scope and updates
 
 - The third-year spring semester is intentionally omitted, as requested; it can be added after the list is checked.
-- The third-year winter list has had five accidentally copied subjects removed: 3D-modelling foundations, Linux network applications, industrial-IoT machine learning, computational linguistics, and Russian as a foreign language.
+- Five accidentally copied entries were removed from the third-year winter list according to the owner's correction.
 - Fourth-year subjects will be added later.
 - This document is based on the supplied academic record and corrections, not independently verified against the university's official programme specification.
