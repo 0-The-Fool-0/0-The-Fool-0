@@ -43,8 +43,9 @@ These public repositories document coursework and collaboration; they are learni
 - [Lab 1 — C triangle calculator](https://github.com/0-The-Fool-0/tpmp-lab1-triangle): my repository history attributes the C program and course notes to me.
 - [Lab 3 — SQLite in C](https://github.com/0-The-Fool-0/tpmp-lab3-sqlite): my history credits the layered SQLite app and its test protocol.
 - [Lab 5 — mobile programming basics](https://github.com/0-The-Fool-0/tpmp-lab5-mobile-basics): my task branches contain the Objective-C/Swift solutions for tasks 2, 3, 4, 6 and 7.
-- [Lab 6 — iOS and localization](https://github.com/0-The-Fool-0/tpmp-lab6-ios-localization): my verified contribution is task 5, a localized grade-conversion app; the snapshot includes other branch work without claiming its authorship.
+- [Lab 6 — iOS and localization](https://github.com/0-The-Fool-0/tpmp-lab6-ios-localization): my branch history attributes tasks 1–5 to me, including task 5, a localized grade-conversion app.
 - [Lab 7 — iOS graphics](https://github.com/0-The-Fool-0/tpmp-lab7-ios-graphics): the integrated repository history attributes its examples and tasks to me.
+- [Lab 8 — iOS data and maps](https://github.com/0-The-Fool-0/tpmp-lab8-ios-storage): my branch history attributes examples 1.1–1.7 and variant tasks 2.1–2.2 to me; weather API values are placeholders.
 - [Lab 9 — BankApp team project](https://github.com/0-The-Fool-0/tpmp-gr11a-lab9-GPT-Dreamteam): I contributed unit/UI tests, the Xcode Test Plan, test-plan documentation, CI workflow and coverage checks alongside the team.
 
 These portfolio snapshots have clean histories and do not reproduce the private course repositories' commit history. Xcode builds are not claimed as verified here.
