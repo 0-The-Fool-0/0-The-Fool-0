@@ -8,9 +8,9 @@ This document organises the courses listed in the academic record for Applied In
 
 - **Mathematics and formal foundations:** analytic geometry, calculus, algebra and number theory, discrete mathematics and logic, graph theory, probability and statistics, differential equations, computational methods, optimisation, combinatorics, and mathematical modelling.
 - **Programming:** programming methodology, machine-oriented programming, algorithms and data structures, industrial programming, cross-platform applications, and computer graphics.
-- **Systems and infrastructure:** operating systems, computer networks, Linux network applications, mobile and embedded systems, distributed and parallel systems, information security, RFID, and video-stream processing.
-- **Application engineering:** web and mobile development, service-oriented systems, testing and quality evaluation, data models and DBMS, and business-process integration.
-- **Data and AI:** data analysis and visualisation, machine learning for industrial IoT, artificial intelligence, pattern recognition, computational linguistics, and combinatorial analysis.
+- **Systems and infrastructure:** operating systems and computer networks.
+- **Application engineering:** web and mobile development, service-oriented software systems, and database management systems.
+- **Data and information systems:** data analysis and visualisation, database management systems, mathematical modelling, and optimisation.
 - **Wider context:** English, Russian as a foreign language, Belarusian professional language, history, law, philosophy, political economy, pedagogy and psychology, and physical education.
 
 The grouping above is an interpretation of the course titles, not a separate official curriculum classification.
@@ -24,7 +24,6 @@ The grouping above is an interpretation of the course titles, not a separate off
 - Belarusian Language (Professional Vocabulary)
 - Discrete Mathematics and Mathematical Logic
 - English
-- Russian as a Foreign Language
 - Physical Education
 - History of Belarusian Statehood
 - Curator / Information Hour
@@ -75,16 +74,12 @@ The grouping above is an interpretation of the course titles, not a separate off
 
 - Fundamentals of Pedagogy and Psychology
 - Computer Networks
-- Algorithmic Foundations of 3D Modelling
 - Optimisation Methods
 - Data Models and Database Management Systems
 - Russian as a Foreign Language
-- Network Applications in Linux
 - Data Analysis and Visualisation Technologies
 - Physical Education
 - Web Programming
-- Introduction to Machine Learning for Industrial IoT Solutions
-- Computational Linguistics
 - Third-Year Course Project
 - Mathematical Modelling
 - Service-Oriented Software Systems
@@ -113,7 +108,7 @@ The grouping above is an interpretation of the course titles, not a separate off
 
 ## How this maps to my project archive
 
-This mapping is an editorial association based on repository structure and source files, not an official university mapping.
+This mapping is an editorial association based on repository structure and source files, not an official university mapping. The third-year spring-semester list is intentionally omitted, and five mistakenly copied third-year winter entries have been removed per the student's correction.
 
 | Course theme | Related repository / project |
 |---|---|
@@ -129,6 +124,6 @@ This mapping is an editorial association based on repository structure and sourc
 
 ## Notes
 
-- The course list comes from the supplied academic record and has not been independently checked against the university's official programme specification.
+- The course list is based on the supplied academic record with the student's corrections: the third-year spring semester is omitted, and five mistakenly copied third-year winter entries are removed. It has not been independently checked against the university's official programme specification.
 - Repository-to-course links are editorial associations based on available materials.
 - Private repositories are not presented as public portfolio links.
