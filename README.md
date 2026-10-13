@@ -34,9 +34,26 @@ The coursework starts with mathematics and programming foundations, progresses t
 - **Go:** I have started learning Go and plan to use it for the course project in **Service-Oriented Software Systems (СОПС)**.
 - **Cloud and infrastructure:** gradually exploring service architecture, automation, containers, and distributed-computing ideas.
 
-## Learning archive
+## Coursework and Team Projects / Учебный путь и командные проекты
 
-Repositories are being organised by course and topic. I want them to show progression—from early assignments to more structured and better-documented work. Different implementations and imperfect intermediate steps may remain when they help explain that progression.
+These public repositories document coursework and collaboration; they are learning snapshots, not production claims.
+
+### TPMP coursework
+
+- [Lab 1 — C triangle calculator](https://github.com/0-The-Fool-0/tpmp-lab1-triangle): my repository history attributes the C program and course notes to me.
+- [Lab 3 — SQLite in C](https://github.com/0-The-Fool-0/tpmp-lab3-sqlite): my history credits the layered SQLite app and its test protocol.
+- [Lab 5 — mobile programming basics](https://github.com/0-The-Fool-0/tpmp-lab5-mobile-basics): my task branches contain the Objective-C/Swift solutions for tasks 2, 3, 4, 6 and 7.
+- [Lab 6 — iOS and localization](https://github.com/0-The-Fool-0/tpmp-lab6-ios-localization): my verified contribution is task 5, a localized grade-conversion app; the snapshot includes other branch work without claiming its authorship.
+- [Lab 7 — iOS graphics](https://github.com/0-The-Fool-0/tpmp-lab7-ios-graphics): the integrated repository history attributes its examples and tasks to me.
+- [Lab 9 — BankApp team project](https://github.com/0-The-Fool-0/tpmp-gr11a-lab9-GPT-Dreamteam): I contributed unit/UI tests, the Xcode Test Plan, test-plan documentation, CI workflow and coverage checks alongside the team.
+
+These portfolio snapshots have clean histories and do not reproduce the private course repositories' commit history. Xcode builds are not claimed as verified here.
+
+### Cloud engineering team project
+
+- [MTS Cloud PC P2P](https://github.com/0-The-Fool-0/mts-cloud-pc-p2p) is a team hackathon MVP with a FastAPI backend, React frontend, host/node agents and Docker development setup. Authentication, streaming and rental workflows are demonstrative or incomplete. The available upstream history does not verify my individual implementation tasks, so I do not claim them here.
+
+### Learning archive
 
 - [Study programme — English](STUDY_PROGRAM.md)
 - [Учебная программа — русский](STUDY_PROGRAM.ru.md)
