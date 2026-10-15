@@ -1,13 +1,13 @@
 # Applied Informatics — Study Programme Map
 
-[Русская версия](STUDY_PROGRAM.ru.md)
+[Read in Russian](STUDY_PROGRAM.ru.md)
 
 This is a working map of the course list supplied for the Applied Informatics programme at the Faculty of Applied Mathematics and Informatics. It preserves the corrected list rather than trying to reconstruct an official syllabus. Grades, personal identifiers, and session results are not included.
 
 ## Main subject areas
 
 - **Mathematics and formal foundations:** analytic geometry, calculus, algebra and number theory, discrete mathematics and logic, graph theory, probability and statistics, differential equations, computational methods, optimisation, and mathematical modelling.
-- **Programming foundations:** programming methodology, machine-oriented programming, algorithms and data structures (АиСД), industrial programming, cross-platform applications, and computer graphics.
+- **Programming foundations:** programming methodology, machine-oriented programming, algorithms and data structures (Algorithms and Data Structures), industrial programming, cross-platform applications, and computer graphics.
 - **Application development:** web and mobile programming, desktop application development, and service-oriented software systems.
 - **Systems and data:** operating systems, computer networks, data models and database management systems (DBMS), data analysis and visualisation.
 - **Wider context:** English, Russian as a foreign language, Belarusian professional language, history, law, philosophy, political economy, pedagogy and psychology, and physical education.
@@ -94,7 +94,7 @@ The links below are personal mappings based on repository contents and coursewor
 | Study area | Related repositories |
 |---|---|
 | Programming foundations and early C/C++ exercises | [First-semester C coursework](https://github.com/0-The-Fool-0/1_semestry_c), [second-semester C++/Qt/ASM collection](https://github.com/0-The-Fool-0/2-semestry), [C++ employee/reporting project](https://github.com/0-The-Fool-0/4-sem), [Python learning exercises](https://github.com/0-The-Fool-0/python-learning-projects) |
-| Algorithms and Data Structures (АиСД) | [АиСД coursework](https://github.com/0-The-Fool-0/aisd-coursework), [mathematical methods C++ labs](https://github.com/0-The-Fool-0/cpp-mv-coursework) |
+| Algorithms and Data Structures (Algorithms and Data Structures) | [Algorithms and Data Structures coursework](https://github.com/0-The-Fool-0/aisd-coursework), [mathematical methods C++ labs](https://github.com/0-The-Fool-0/cpp-mv-coursework) |
 | Computational methods and mathematics | [Numerical interpolation and splines](https://github.com/0-The-Fool-0/numerical-interpolation-lab), [mathematical methods C++ labs](https://github.com/0-The-Fool-0/cpp-mv-coursework) |
 | Computer graphics | [Python computer graphics labs](https://github.com/0-The-Fool-0/python-computer-graphics-coursework), [Qt desktop exercises](https://github.com/0-The-Fool-0/qt-widgets-projects), [iOS graphics lab](https://github.com/0-The-Fool-0/tpmp-lab7-ios-graphics) |
 | Desktop applications and indexed data | [Qt Widgets collection](https://github.com/0-The-Fool-0/qt-widgets-projects), [Java indexed warehouse exercise](https://github.com/0-The-Fool-0/java-indexed-warehouse), [SQLite programming lab](https://github.com/0-The-Fool-0/tpmp-lab3-sqlite) |
@@ -104,7 +104,7 @@ The links below are personal mappings based on repository contents and coursewor
 | Mobile programming and iOS | [Mobile programming basics](https://github.com/0-The-Fool-0/tpmp-lab5-mobile-basics), [iOS and localisation](https://github.com/0-The-Fool-0/tpmp-lab6-ios-localization), [iOS graphics](https://github.com/0-The-Fool-0/tpmp-lab7-ios-graphics), [iOS storage and maps](https://github.com/0-The-Fool-0/tpmp-lab8-ios-storage), [team BankApp and my testing contribution](https://github.com/0-The-Fool-0/tpmp-gr11a-lab9-GPT-Dreamteam) |
 | Course introductions and Git workflow | [TPMP Lab 1 — C triangle calculator](https://github.com/0-The-Fool-0/tpmp-lab1-triangle), [Git introduction](https://github.com/0-The-Fool-0/lab1-intro-git), [Markdown introduction](https://github.com/0-The-Fool-0/lab1-intro-markdown) |
 | Databases and data analysis | [SQLite programming lab](https://github.com/0-The-Fool-0/tpmp-lab3-sqlite). The separate Streamlit/TAD repository is being curated independently and is not linked as a finished portfolio project. |
-| Service-oriented software systems (СОПС) and Go | I have started learning Go and plan to implement the СОПС coursework project in Go. This is a plan, not a completed project; the working course materials remain separate while credentials and configuration are reviewed. |
+| Service-oriented software systems (Service-Oriented Software Systems) and Go | I have started learning Go and plan to implement the Service-Oriented Software Systems coursework project in Go. This is a plan, not a completed project; the working course materials remain separate while credentials and configuration are reviewed. |
 
 ## Scope and updates
 
