@@ -61,7 +61,7 @@ These portfolio snapshots have clean histories and do not reproduce the private 
 
 ## Notes
 
-Some repositories are still private while I check their contents, remove generated files, and improve documentation. The goal is to share a transparent learning history without publishing secrets, personal data, or material that should not be redistributed.
+A few working repositories remain separate while I review dataset licences, credentials, and security-sensitive configuration. The study-programme pages link coursework to its repositories; the goal is to share a transparent learning history without exposing private data or material that should not be redistributed.
 
 ---
 
