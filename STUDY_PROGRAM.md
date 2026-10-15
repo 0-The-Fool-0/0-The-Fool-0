@@ -89,19 +89,22 @@ These groupings are a practical interpretation of the listed subjects, not an of
 
 ## Connection to my project archive
 
-The relationships below are personal mappings based on repository contents and coursework titles, not official course-to-project equivalencies.
+The links below are personal mappings based on repository contents and coursework titles, not official course-to-project equivalencies. The repositories include both individual exercises and course collections; unfinished or educational work should not be interpreted as production software.
 
-| Study area | Related work |
+| Study area | Related repositories |
 |---|---|
-| Algorithms and Data Structures (АиСД) | C++ algorithm and data-structure labs; repository name correction to `aisd-coursework` is still pending. |
-| Computational methods and mathematics | Numerical interpolation and spline exercises. |
-| Computer graphics | Rasterisation, clipping, 3D transformations, and Qt/C++ graphical exercises. |
-| Operating systems | C++ labs around processes, threads, synchronisation, queues, and client/server communication. |
-| Web programming | JavaScript, Node.js/Express, REST APIs, and real-time chat coursework. |
-| Networking | Java socket and RMI examples; computer-networking coursework. |
-| Database systems | DBMS is a core subject in the corrected course list; a more complete project mapping will be added as the coursework is organised. |
-| Service-oriented software systems (СОПС) and Go | I have started learning Go and plan to implement the СОПС coursework project in Go. This is a plan, not a completed project. |
-| Data analysis | The Streamlit coursework is maintained separately and is not presented here as finished portfolio work. |
+| Programming foundations and early C/C++ exercises | [First-semester C coursework](https://github.com/0-The-Fool-0/1_semestry_c), [second-semester C++/Qt/ASM collection](https://github.com/0-The-Fool-0/2-semestry), [C++ employee/reporting project](https://github.com/0-The-Fool-0/4-sem), [Python learning exercises](https://github.com/0-The-Fool-0/python-learning-projects) |
+| Algorithms and Data Structures (АиСД) | [АиСД coursework](https://github.com/0-The-Fool-0/aisd-coursework), [mathematical methods C++ labs](https://github.com/0-The-Fool-0/cpp-mv-coursework) |
+| Computational methods and mathematics | [Numerical interpolation and splines](https://github.com/0-The-Fool-0/numerical-interpolation-lab), [mathematical methods C++ labs](https://github.com/0-The-Fool-0/cpp-mv-coursework) |
+| Computer graphics | [Python computer graphics labs](https://github.com/0-The-Fool-0/python-computer-graphics-coursework), [Qt desktop exercises](https://github.com/0-The-Fool-0/qt-widgets-projects), [iOS graphics lab](https://github.com/0-The-Fool-0/tpmp-lab7-ios-graphics) |
+| Desktop applications and indexed data | [Qt Widgets collection](https://github.com/0-The-Fool-0/qt-widgets-projects), [Java indexed warehouse exercise](https://github.com/0-The-Fool-0/java-indexed-warehouse), [SQLite programming lab](https://github.com/0-The-Fool-0/tpmp-lab3-sqlite) |
+| Operating systems | [C++ labs on processes, threads, synchronisation, queues and client/server interaction](https://github.com/0-The-Fool-0/Operating-systems) |
+| Web programming | [Web Programming 2 coursework collection](https://github.com/0-The-Fool-0/web-programming-2-coursework), [Web Programming 2 Lab 9](https://github.com/0-The-Fool-0/Web-prog-coure-2) |
+| Networking | [Java TCP/RMI coursework](https://github.com/0-The-Fool-0/java-networking-coursework) |
+| Mobile programming and iOS | [Mobile programming basics](https://github.com/0-The-Fool-0/tpmp-lab5-mobile-basics), [iOS and localisation](https://github.com/0-The-Fool-0/tpmp-lab6-ios-localization), [iOS graphics](https://github.com/0-The-Fool-0/tpmp-lab7-ios-graphics), [iOS storage and maps](https://github.com/0-The-Fool-0/tpmp-lab8-ios-storage), [team BankApp and my testing contribution](https://github.com/0-The-Fool-0/tpmp-gr11a-lab9-GPT-Dreamteam) |
+| Course introductions and Git workflow | [TPMP Lab 1 — C triangle calculator](https://github.com/0-The-Fool-0/tpmp-lab1-triangle), [Git introduction](https://github.com/0-The-Fool-0/lab1-intro-git), [Markdown introduction](https://github.com/0-The-Fool-0/lab1-intro-markdown) |
+| Databases and data analysis | [SQLite programming lab](https://github.com/0-The-Fool-0/tpmp-lab3-sqlite). The separate Streamlit/TAD repository is being curated independently and is not linked as a finished portfolio project. |
+| Service-oriented software systems (СОПС) and Go | I have started learning Go and plan to implement the СОПС coursework project in Go. This is a plan, not a completed project; the working course materials remain separate while credentials and configuration are reviewed. |
 
 ## Scope and updates
 
